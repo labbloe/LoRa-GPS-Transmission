@@ -1,0 +1,2 @@
+To Download the necessary board in Arduino IDE follow the instructions on the following webpage:
+https://heltec-automation-docs.readthedocs.io/en/latest/esp32/quick_start.html
